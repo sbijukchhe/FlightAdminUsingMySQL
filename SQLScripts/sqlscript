@@ -1,0 +1,4 @@
+create database Flight_Admin;
+use flight_admin;
+
+select * from flight;
